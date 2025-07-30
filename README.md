@@ -4,7 +4,7 @@
 ## Project Description
 The **Resume Analyzer** is a web application that allows users to upload their resumes (in PDF or TXT format) and a job description. The app processes the resume and provides feedback on how well it matches the job description. It uses AI-powered analysis to improve the resume and highlight missing keywords from the job description.
 
-## Example Screenshot
+
 ## Example Screenshot
 ![Frontend Example](frontend/frontend.png)
 
