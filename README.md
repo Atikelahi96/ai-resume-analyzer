@@ -19,7 +19,7 @@ The **Resume Analyzer** is a web application that allows users to upload their r
 
 ## Technologies Used
 - **Frontend**: HTML, CSS, JavaScript (AJAX for form submission).
-- **Backend**: Python, FastAPI, Langchain, GPT-4 (Gemini).
+- **Backend**: Python, FastAPI, Langchain.
 - **AI**: (Gemini) used to analyze and compare resumes.
 - **Libraries**: FastAPI, Langchain, Uvicorn, Python-dotenv, PyPDF2.
 - **Hosting**: Local server (for testing purposes).
