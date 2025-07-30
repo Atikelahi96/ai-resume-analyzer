@@ -62,8 +62,6 @@ Ensure you have Python 3.8 or later installed on your system.
    - Paste a job description in the text area.
    - Click **Submit** to get the feedback from the AI.
 
-## Example Screenshot
-![Frontend Example](path_to_image.jpg)  <!-- Replace this path with the image file -->
 
 ## License
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
